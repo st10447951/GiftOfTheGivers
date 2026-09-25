@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "compute.appService1": {
+      "restored": true,
+      "restoreTime": "2026-09-25T08:43:18.7766581Z"
+    }
+  },
+  "parameters": {
+    "compute.appService1.subscriptionId": {
+      "Name": "compute.appService1.subscriptionId",
+      "Type": "subscription",
+      "Value": "a5fc0a67-88dd-4563-9b7d-1a5537c5e997"
+    },
+    "compute.appService1.resourceGroupName": {
+      "Name": "compute.appService1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "RSG-RCGPPT-ST10447951-SANORTH"
+    }
+  }
+}

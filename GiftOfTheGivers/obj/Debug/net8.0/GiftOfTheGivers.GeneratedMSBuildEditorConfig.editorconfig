@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GiftOfTheGivers
+build_property.RootNamespace = GiftOfTheGivers
+build_property.ProjectDir = C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\APPR\GiftOfTheGivers\GiftOfTheGivers\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\APPR\GiftOfTheGivers\GiftOfTheGivers
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Student/OneDrive - ADvTECH Ltd/Documents/APPR/GiftOfTheGivers/GiftOfTheGivers/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/OneDrive - ADvTECH Ltd/Documents/APPR/GiftOfTheGivers/GiftOfTheGivers/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/OneDrive - ADvTECH Ltd/Documents/APPR/GiftOfTheGivers/GiftOfTheGivers/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/OneDrive - ADvTECH Ltd/Documents/APPR/GiftOfTheGivers/GiftOfTheGivers/Views/Donation/Certificate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25cQ2VydGlmaWNhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/OneDrive - ADvTECH Ltd/Documents/APPR/GiftOfTheGivers/GiftOfTheGivers/Views/Donation/Donate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25cRG9uYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/OneDrive - ADvTECH Ltd/Documents/APPR/GiftOfTheGivers/GiftOfTheGivers/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/OneDrive - ADvTECH Ltd/Documents/APPR/GiftOfTheGivers/GiftOfTheGivers/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/OneDrive - ADvTECH Ltd/Documents/APPR/GiftOfTheGivers/GiftOfTheGivers/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/OneDrive - ADvTECH Ltd/Documents/APPR/GiftOfTheGivers/GiftOfTheGivers/Views/Projects/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/OneDrive - ADvTECH Ltd/Documents/APPR/GiftOfTheGivers/GiftOfTheGivers/Views/Projects/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/OneDrive - ADvTECH Ltd/Documents/APPR/GiftOfTheGivers/GiftOfTheGivers/Views/Projects/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/OneDrive - ADvTECH Ltd/Documents/APPR/GiftOfTheGivers/GiftOfTheGivers/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/OneDrive - ADvTECH Ltd/Documents/APPR/GiftOfTheGivers/GiftOfTheGivers/Views/Volunteer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/OneDrive - ADvTECH Ltd/Documents/APPR/GiftOfTheGivers/GiftOfTheGivers/Views/Volunteer/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/OneDrive - ADvTECH Ltd/Documents/APPR/GiftOfTheGivers/GiftOfTheGivers/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/OneDrive - ADvTECH Ltd/Documents/APPR/GiftOfTheGivers/GiftOfTheGivers/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

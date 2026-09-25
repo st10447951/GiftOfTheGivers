@@ -1,0 +1,55 @@
+﻿@model GiftOfTheGivers2.Models.Donation
+@{
+    ViewData["Title"] = "Donate";
+}
+
+<h1>Make a Donation</h1>
+<p class="text-muted">Support relief efforts financially — one-time or recurring, in your currency of choice.</p>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Index" asp-controller="Donations" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+
+            <div class="mb-3">
+                <label asp-for="DonorName" class="form-label"></label>
+                <input asp-for="DonorName" class="form-control" placeholder="Optional if donating anonymously" />
+                <span asp-validation-for="DonorName" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Amount" class="form-label"></label>
+                <input asp-for="Amount" class="form-control" type="number" step="0.01" min="1" />
+                <span asp-validation-for="Amount" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Currency" class="form-label"></label>
+                <select asp-for="Currency" class="form-select">
+                    <option value="ZAR">ZAR — South African Rand</option>
+                    <option value="USD">USD — US Dollar</option>
+                    <option value="EUR">EUR — Euro</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="DonationType" class="form-label"></label>
+                <select asp-for="DonationType" class="form-select">
+                    <option value="OneTime">One-time</option>
+                    <option value="Recurring">Recurring</option>
+                </select>
+            </div>
+
+            <div class="form-check mb-3">
+                <input asp-for="IsAnonymous" class="form-check-input" />
+                <label asp-for="IsAnonymous" class="form-check-label"></label>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Donate Now</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

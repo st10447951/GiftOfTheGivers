@@ -1,0 +1,208 @@
+:root {
+    --gotg-blue: #1B4F91;
+    --gotg-blue-dark: #123A6B;
+    --gotg-blue-light: #6FA8D6;
+    --gotg-gold: #D4AF37;
+    --gotg-gold-light: #F0D77B;
+    --gotg-white: #FFFFFF;
+    --sidebar-width: 240px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    background-color: var(--gotg-white);
+}
+
+/* Sidebar */
+.sidebar-nav {
+    width: var(--sidebar-width);
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+
+.main-content {
+    margin-left: var(--sidebar-width);
+    width: calc(100% - var(--sidebar-width));
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+    .main-content .container-fluid {
+        flex: 1 0 auto;
+    }
+
+.navbar-brand, .nav-link {
+    color: var(--gotg-blue) !important;
+    font-weight: 500;
+}
+
+.btn-primary {
+    background-color: var(--gotg-blue);
+    border-color: var(--gotg-blue);
+}
+
+    .btn-primary:hover {
+        background-color: var(--gotg-blue-dark);
+        border-color: var(--gotg-blue-dark);
+    }
+
+.sidebar-link {
+    color: var(--gotg-blue) !important;
+    border-radius: 6px;
+    padding: 0.6rem 1rem;
+    display: block;
+}
+
+    .sidebar-link:hover {
+        background-color: var(--gotg-blue-light);
+        color: #FFFFFF !important;
+    }
+
+.nav-pills .sidebar-link.active {
+    background-color: var(--gotg-blue) !important;
+    color: #FFFFFF !important;
+}
+
+/* Hero banner — bigger and bolder */
+.hero-banner {
+    position: relative;
+    width: 100%;
+    height: 620px;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+}
+
+.hero-image {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.hero-overlay {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, rgba(18, 58, 107, 0.55) 0%, rgba(18, 58, 107, 0.75) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 0 1.5rem;
+}
+
+.hero-title {
+    font-size: 4rem;
+    font-weight: 800;
+    margin-bottom: 0.75rem;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.4);
+}
+
+    .hero-title .gold-accent {
+        color: var(--gotg-gold-light);
+    }
+
+.hero-subtitle {
+    font-size: 1.4rem;
+    margin-bottom: 2rem;
+    max-width: 650px;
+    color: #FFFFFF;
+}
+
+.hero-buttons .btn {
+    padding: 0.75rem 2rem;
+    font-weight: 600;
+    border-width: 2px;
+}
+
+.hero-buttons .btn-outline-light:hover {
+    background-color: var(--gotg-gold);
+    border-color: var(--gotg-gold);
+    color: var(--gotg-blue-dark);
+}
+
+/* Feature cards with gold-accented icons */
+.feature-flex {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.75rem;
+    justify-content: center;
+    width: 100%;
+    margin-top: 3rem;
+}
+
+.feature-box {
+    flex: 1 1 300px;
+    max-width: 340px;
+    background-color: var(--gotg-blue);
+    color: #FFFFFF;
+    padding: 2.25rem 1.75rem;
+    border-radius: 14px;
+    text-align: center;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+    border-top: 4px solid var(--gotg-gold);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+    .feature-box:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.22);
+    }
+
+.feature-icon {
+    width: 64px;
+    height: 64px;
+    margin: 0 auto 1rem;
+    border-radius: 50%;
+    background: radial-gradient(circle, var(--gotg-gold-light) 0%, var(--gotg-gold) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.8rem;
+    color: var(--gotg-blue-dark);
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.25);
+}
+
+.feature-box h3 {
+    margin-bottom: 0.75rem;
+    color: #FFFFFF;
+}
+
+.feature-box p {
+    margin-bottom: 1.25rem;
+    font-size: 0.95rem;
+    color: #EAF1FA;
+}
+
+.feature-box .btn-light {
+    border: 1px solid var(--gotg-gold);
+    font-weight: 600;
+}
+
+    .feature-box .btn-light:hover {
+        background-color: var(--gotg-gold);
+        color: var(--gotg-blue-dark);
+    }
+
+.impact-statement {
+    max-width: 800px;
+    margin: 3rem auto 0;
+    color: var(--gotg-blue-dark);
+    font-size: 1.1rem;
+}

@@ -1,0 +1,16 @@
+:root {
+  --brand-green: #2E5E4E;
+  --brand-gold: #8A6D00;
+}
+
+body {
+  font-family: 'Segoe UI', system-ui, sans-serif;
+}
+
+.navbar-brand {
+  letter-spacing: 0.02em;
+}
+
+.card {
+  border-radius: 0.75rem;
+}

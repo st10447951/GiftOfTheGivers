@@ -1,0 +1,19 @@
+@model ReliefProject
+@{
+    ViewData["Title"] = Model.ProjectName;
+    var raised = Model.Donations?.Sum(d => d.Amount) ?? 0;
+}
+<h2>@Model.ProjectName</h2>
+<p class="text-muted">@Model.Location</p>
+<p>@Model.Description</p>
+<div class="progress mb-2" style="height: 24px;">
+    @{ var pct = Model.TargetAmount > 0 ? Math.Min(100, (double)(raised / Model.TargetAmount * 100)) : 0; }
+    <div class="progress-bar bg-success" style="width:@pct.ToString("0")%;">@pct.ToString("0")%</div>
+</div>
+<p>Raised: <strong>@raised.ToString("N2")</strong> of @Model.TargetAmount.ToString("N2") target</p>
+<a class="btn btn-warning" asp-controller="Donation" asp-action="Donate" asp-route-projectId="@Model.ProjectID">Donate to this project</a>
+
+@if (User.IsInRole("Employee"))
+{
+    <a class="btn btn-outline-secondary ms-2" asp-controller="Projects" asp-action="Edit" asp-route-id="@Model.ProjectID">Edit Project</a>
+}

@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GiftOfTheGivers2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9773024fd926b3868229d304c811c860732c232b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GiftOfTheGivers2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GiftOfTheGivers2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

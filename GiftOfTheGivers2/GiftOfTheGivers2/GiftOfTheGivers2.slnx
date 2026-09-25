@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="GiftOfTheGivers2/GiftOfTheGivers2.csproj" />
+  <Project Path="../GiftOfTheGiversFunctions/GiftOfTheGiversFunctions.csproj" />
+  <Project Path="GiftOfTheGivers2.csproj" />
 </Solution>

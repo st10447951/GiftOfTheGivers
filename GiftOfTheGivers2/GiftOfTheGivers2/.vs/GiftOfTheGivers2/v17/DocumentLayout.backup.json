@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B6B9E7-2C85-4F13-9C83-8F44D4AAB901}|tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj|c:\\users\\petros\\downloads\\giftofthegivers2\\tests\\giftofthegivers2.uitests\\giftofthegiversbrowsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B6B9E7-2C85-4F13-9C83-8F44D4AAB901}|tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj|solutionrelative:tests\\giftofthegivers2.uitests\\giftofthegiversbrowsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B6B9E7-2C85-4F13-9C83-8F44D4AAB901}|tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj|c:\\users\\petros\\downloads\\giftofthegivers2\\tests\\giftofthegivers2.uitests\\giftofthegivers2.uitests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2B6B9E7-2C85-4F13-9C83-8F44D4AAB901}|tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj|solutionrelative:tests\\giftofthegivers2.uitests\\giftofthegivers2.uitests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|c:\\users\\petros\\downloads\\giftofthegivers2\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|c:\\users\\petros\\downloads\\giftofthegivers2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|c:\\users\\petros\\downloads\\giftofthegivers2\\giftofthegivers2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|solutionrelative:giftofthegivers2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|c:\\users\\petros\\downloads\\giftofthegivers2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|c:\\users\\petros\\downloads\\giftofthegivers2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|c:\\users\\petros\\downloads\\giftofthegivers2\\areas\\identity\\pages\\accounts\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|solutionrelative:areas\\identity\\pages\\accounts\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B6B9E7-2C85-4F13-9C83-8F44D4AAB901}|tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj|c:\\users\\petros\\downloads\\giftofthegivers2\\tests\\giftofthegivers2.uitests\\giftofthegivers2.uitests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D2B6B9E7-2C85-4F13-9C83-8F44D4AAB901}|tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj|solutionrelative:tests\\giftofthegivers2.uitests\\giftofthegivers2.uitests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B6B9E7-2C85-4F13-9C83-8F44D4AAB901}|tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj|c:\\users\\petros\\downloads\\giftofthegivers2\\tests\\giftofthegivers2.uitests\\browserdriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B6B9E7-2C85-4F13-9C83-8F44D4AAB901}|tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj|solutionrelative:tests\\giftofthegivers2.uitests\\browserdriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|c:\\users\\petros\\downloads\\giftofthegivers2\\controllers\\donationscontroller.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|solutionrelative:controllers\\donationscontroller.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|c:\\users\\petros\\downloads\\giftofthegivers2\\views\\donations\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|solutionrelative:views\\donations\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|c:\\users\\petros\\downloads\\giftofthegivers2\\views\\donations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6C17743-D005-4D8E-0EA4-8B54CFCF84DF}|GiftOfTheGivers2.csproj|solutionrelative:views\\donations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T14:49:08.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T14:37:21.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\Areas\\Identity\\Pages\\Accounts\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Accounts\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\Areas\\Identity\\Pages\\Accounts\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Accounts\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T13:49:15.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GiftOfTheGivers2.csproj",
+              "DocumentMoniker": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\GiftOfTheGivers2.csproj",
+              "RelativeDocumentMoniker": "GiftOfTheGivers2.csproj",
+              "ToolTip": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\GiftOfTheGivers2.csproj",
+              "RelativeToolTip": "GiftOfTheGivers2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-02T12:55:59.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GiftOfTheGiversBrowserTests.cs",
+              "DocumentMoniker": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\GiftOfTheGiversBrowserTests.cs",
+              "RelativeDocumentMoniker": "tests\\GiftOfTheGivers2.UITests\\GiftOfTheGiversBrowserTests.cs",
+              "ToolTip": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\GiftOfTheGiversBrowserTests.cs",
+              "RelativeToolTip": "tests\\GiftOfTheGivers2.UITests\\GiftOfTheGiversBrowserTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAwwBQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T13:48:33.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T13:50:11.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GiftOfTheGivers2.UITests.csproj",
+              "DocumentMoniker": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj",
+              "RelativeDocumentMoniker": "tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj",
+              "ToolTip": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj",
+              "RelativeToolTip": "tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-02T12:58:35.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GiftOfTheGivers2.UITests",
+              "DocumentMoniker": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj",
+              "RelativeDocumentMoniker": "tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj",
+              "ToolTip": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj",
+              "RelativeToolTip": "tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-02T12:58:46.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T13:50:33.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BrowserDriverFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\BrowserDriverFactory.cs",
+              "RelativeDocumentMoniker": "tests\\GiftOfTheGivers2.UITests\\BrowserDriverFactory.cs",
+              "ToolTip": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\BrowserDriverFactory.cs",
+              "RelativeToolTip": "tests\\GiftOfTheGivers2.UITests\\BrowserDriverFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T09:58:14.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DonationsController.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\Controllers\\DonationsController.cs.cs",
+              "RelativeDocumentMoniker": "Controllers\\DonationsController.cs.cs",
+              "ToolTip": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\Controllers\\DonationsController.cs.cs",
+              "RelativeToolTip": "Controllers\\DonationsController.cs.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:56:47.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\Views\\Donations\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Donations\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\Views\\Donations\\Confirmation.cshtml",
+              "RelativeToolTip": "Views\\Donations\\Confirmation.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwCQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T10:57:26.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\Views\\Donations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Donations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\Views\\Donations\\Index.cshtml",
+              "RelativeToolTip": "Views\\Donations\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T10:57:38.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

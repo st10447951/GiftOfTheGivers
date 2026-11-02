@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zbbPpQFm+QY=",
+  "dgSpecHash": "qVrZ0TNp17w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj",
+  "projectFilePath": "C:\\Users\\Petros\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\GiftOfTheGivers\\GiftOfTheGivers2\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Petros\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
     "C:\\Users\\Petros\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\microsoft.net.test.sdk.17.12.0.nupkg.sha512",

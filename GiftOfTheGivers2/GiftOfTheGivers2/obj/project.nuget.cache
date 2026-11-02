@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j9SIZmxE14g=",
+  "dgSpecHash": "n5Wujf6ySNI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\GiftOfTheGivers2.csproj",
+  "projectFilePath": "C:\\Users\\Petros\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\GiftOfTheGivers\\GiftOfTheGivers2\\GiftOfTheGivers2\\GiftOfTheGivers2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Petros\\.nuget\\packages\\azure.core\\1.41.0\\azure.core.1.41.0.nupkg.sha512",
     "C:\\Users\\Petros\\.nuget\\packages\\azure.identity\\1.12.1\\azure.identity.1.12.1.nupkg.sha512",

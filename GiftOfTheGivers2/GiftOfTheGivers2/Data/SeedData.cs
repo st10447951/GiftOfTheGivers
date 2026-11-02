@@ -19,7 +19,7 @@ namespace GiftOfTheGivers2.Data
                 }
             }
 
-            // 2. Seed a default Employee account for testing/demo purposes
+            // 2. Seed a default Employee account for testing/demo purposes.
             const string employeeEmail = "employee@giftofthegivers.org";
             const string employeePassword = "Employee@123";
 

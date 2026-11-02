@@ -83,7 +83,7 @@ public class GiftOfTheGiversBrowserTests
                 .ExecuteScript("return document.readyState")
                 ?.ToString() == "complete");
 
-        // Capture what the automated browser actually receives.
+        // Capture what the automated browser actually receives within.
         var pageSource = driver.PageSource;
 
         Console.WriteLine("========== LOGIN DIAGNOSTICS ==========");
@@ -322,3 +322,4 @@ public class GiftOfTheGiversBrowserTests
         ((ITakesScreenshot)driver).GetScreenshot().SaveAsFile(file);
     }
 }
+//closes.

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj": {}
+    "C:\\Users\\Petros\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\GiftOfTheGivers\\GiftOfTheGivers2\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj": {
+    "C:\\Users\\Petros\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\GiftOfTheGivers\\GiftOfTheGivers2\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj",
+        "projectUniqueName": "C:\\Users\\Petros\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\GiftOfTheGivers\\GiftOfTheGivers2\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj",
         "projectName": "GiftOfTheGivers2.UITests",
-        "projectPath": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj",
+        "projectPath": "C:\\Users\\Petros\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\GiftOfTheGivers\\GiftOfTheGivers2\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\GiftOfTheGivers2.UITests.csproj",
         "packagesPath": "C:\\Users\\Petros\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Petros\\Downloads\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\obj\\",
+        "outputPath": "C:\\Users\\Petros\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\GiftOfTheGivers\\GiftOfTheGivers2\\GiftOfTheGivers2\\tests\\GiftOfTheGivers2.UITests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
